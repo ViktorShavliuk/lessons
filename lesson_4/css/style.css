@@ -1,0 +1,58 @@
+
+/*@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap");*/
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:regular,500,700&display=swap");
+
+@import url("fonts.css");
+
+@import url("reset.css");
+
+body {
+   font-family: "Poppins", sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+}
+.title {
+   font-family: "Pacifico", cursive;
+   font-style: italic;
+   font-weight: 400;
+   font-size: 36px;
+   color: rgba(13, 52, 207, 0.85);
+   text-align: center;
+   text-decoration: underline;
+   text-decoration-color: rgba(202, 31, 218, 0.694);
+   text-shadow: 5px 5px 10px rgba(18, 33, 144, 0.708), -5px -5px 10px rgba(41, 31, 90, 0.71);
+   text-transform: uppercase;
+   letter-spacing: 8px;
+}
+.list {
+   font-family: "Pacifico", cursive;
+   font-weight: 400;
+   font-size: 20px;
+   color: rgb(231, 26, 114);
+   text-align: center;
+   line-height: 1.25; /* 25/20 */
+}
+.krovato {
+   font-family: "Proxima Nova", sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 1.875; /* 30/16 */
+   color: rgb(43, 41, 41);
+   text-align: left;
+}
+.sub_title {
+   font-family: "Proxima Nova", sans-serif;
+   font-weight: 600;
+   font-size: 40px;
+   line-height: 1.20; /* 48/40 */
+   text-align: center;
+}
+.living_room_title {
+   font-family: "Proxima Nova", sans-serif;
+   font-weight: 600;
+   font-size: 20px;
+   line-height: 1.40; /* 28/20 */
+}
